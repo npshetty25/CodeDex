@@ -1,0 +1,17 @@
+/* Write code below 💖 */
+
+div>#outer
+{ 
+  background-color: red;
+  width : 500px;
+  height : 500px;
+}
+
+div>#inner
+{ 
+  background-image: url('408e7717193cfe84f8eec717a48583e2.webp');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width : 400px;
+  height : 400px;
+}     
