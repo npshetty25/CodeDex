@@ -24,7 +24,7 @@ li > div {
 #top-img {
   width: 10em;
   height: 10em;
-  border: 12px solid green;
+  border: 12px solid rgb(142, 228, 142);
   border-radius: 50%;
 }
 
