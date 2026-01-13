@@ -1,11 +1,9 @@
-/* Profile Status 👤 */
-/* Codédex */
-
-* {
+*{
   font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
 }
 
-div {
+div
+{
   border: 2px solid grey;
 }
 
@@ -38,5 +36,5 @@ li > div {
 
 .post-img {
   width: 100%;
-  border-radius: 5px;
+  border-radius: 50%;
 }
